@@ -50,7 +50,7 @@ body{
     border-radius: 20px;
     background-color: #3882f6;
     color: white;
-    border: 2px solid white;
+    border: 1.5px solid white;
 }
 .columned{
     display: flex;
@@ -60,7 +60,6 @@ body{
     padding-bottom: 20px;
     padding-right: 40px;
     padding-left: 40px;
-    gap: 4px;
 }
 .column-pic{
     display: flex;
@@ -95,10 +94,10 @@ body{
     display: flex;
     flex: 1;
     justify-content: space-around;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-right: 40px;
-    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 60px;
+    padding-left: 60px;
     gap: 8px;
 }
 
